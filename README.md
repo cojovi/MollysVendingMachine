@@ -1,4 +1,3 @@
-# MollysVendingMachine
 # Molly's Vending Machine : Your Raspberry Pi's Side Hustle as a Pet Butler 🍽️🐾
 
 Welcome to `Molly's Vending Machine`, Molly is my dog, this dapper daemon that turns your Raspberry Pi into a pet's best dinner companion—second only to you when you accidentally drop that piece of chicken. 😜
